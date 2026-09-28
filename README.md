@@ -261,7 +261,7 @@ conda activate sih
 ### 2. Move Into the Project
 
 ```bash
-cd C:\Users\abdul\SIH-26153
+cd SIH-26153
 ```
 
 ### 3. Install Dependencies
@@ -319,7 +319,7 @@ conda activate sih
 Move into the project:
 
 ```bash
-cd C:\Users\abdul\SIH-26153
+cd SIH-26153
 ```
 
 Run Streamlit:
@@ -787,7 +787,7 @@ For an evaluator who only wants to run the existing dashboard:
 conda create -n sih python=3.11
 conda activate sih
 
-cd C:\Users\abdul\SIH-26153
+cd SIH-26153
 
 pip install -r requirements.txt
 
