@@ -1,0 +1,30 @@
+__pycache__/
+*.py[cod]
+*.pyo
+
+.venv/
+venv/
+env/
+
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Raw datasets
+data/*.csv
+data/*.zip
+data/*.pcap
+data/*.pcapng
+
+# Large generated arrays
+data/processed/*.npy
+
+# Logs / temporary files
+*.tmp
+*.log
+
+# Model/checkpoint files
+*.h5
+
+# Streamlit secrets
+.streamlit/secrets.toml

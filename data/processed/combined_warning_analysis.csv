@@ -1,0 +1,17 @@
+Attack,Signal,Horizon,WarningTime,LeadMinutes
+Attack 1,World Model Anomaly,Current,,
+Attack 1,Recursive World Forecast,+1m,,
+Attack 1,Recursive World Forecast,+5m,,
+Attack 1,Recursive World Forecast,+10m,,
+Attack 1,Recursive World Forecast,+15m,,
+Attack 1,Forecast Engine,+5m,,
+Attack 1,Forecast Engine,+10m,,
+Attack 1,Forecast Engine,+15m,2018-03-01 01:33:00,27.0
+Attack 2,World Model Anomaly,Current,,
+Attack 2,Recursive World Forecast,+1m,,
+Attack 2,Recursive World Forecast,+5m,,
+Attack 2,Recursive World Forecast,+10m,2018-03-01 09:53:00,4.0
+Attack 2,Recursive World Forecast,+15m,2018-03-01 09:48:00,9.0
+Attack 2,Forecast Engine,+5m,2018-03-01 02:16:00,461.0
+Attack 2,Forecast Engine,+10m,2018-03-01 02:16:00,461.0
+Attack 2,Forecast Engine,+15m,2018-03-01 01:33:00,504.0
